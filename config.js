@@ -61,7 +61,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '628981614707'
 global.nomorown = '628981614707'
-global.namebot = 'ChikaBot-MD'
+global.namebot = 'Soviet - Bot'
 global.nameown = 'MFX'
 
 
@@ -70,7 +70,7 @@ global.owner = [
   ['628981614707'],
   ['628981614797'],
   ['628981614707'],
-  ['28981614707', 'MFX', true]
+  ['28981614707', 'owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Chika Bot MDあ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Chika Bot - MDฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Chika 𝗕𝗢𝗧'
+global.wm = '                「 Soviet - Botあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Soviet - Botฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Soviet - 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
